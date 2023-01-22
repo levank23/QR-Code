@@ -1,0 +1,18 @@
+body{
+
+    background-color: #D5E1EF
+
+}
+
+.card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 320px;
+    height: 497px;
+    background-color: white;
+    padding: 16px;
+    border-radius: 20px;
+    margin: auto;
+
+}
